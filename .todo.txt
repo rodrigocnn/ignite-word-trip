@@ -1,0 +1,6 @@
+[ ] configurar slider
+[ ] Link na Logo Header
+[x] Componente Banner imagem como props
+[ ] Imagens da cidades
+[ ] Responsivo
+[ ] Adicionar Typescript
